@@ -1,0 +1,9 @@
+package com.lavanya.banking_system.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.lavanya.banking_system.entity.Account;
+
+public interface AccountTypeRepository extends JpaRepository<Account,Long>{
+
+}

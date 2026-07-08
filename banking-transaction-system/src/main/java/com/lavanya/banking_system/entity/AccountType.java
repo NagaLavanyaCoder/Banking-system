@@ -1,0 +1,6 @@
+package com.lavanya.banking_system.entity;
+
+public enum AccountType {
+	SAVINGS,
+	CURRENT
+}

@@ -1,0 +1,5 @@
+package com.lavanya.banking_system.repository;
+
+public interface AccountTypeRepository {
+
+}

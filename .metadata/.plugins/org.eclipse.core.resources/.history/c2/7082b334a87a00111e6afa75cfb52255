@@ -1,0 +1,5 @@
+package com.lavanya.banking_system.entity;
+
+public class User {
+
+}
