@@ -1,0 +1,5 @@
+package com.lavanya.banking_system.DTO;
+
+public class UserRegistrationRequest {
+
+}

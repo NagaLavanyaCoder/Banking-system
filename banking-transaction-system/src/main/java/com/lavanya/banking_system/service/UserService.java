@@ -1,0 +1,8 @@
+package com.lavanya.banking_system.service;
+
+import com.lavanya.banking_system.DTO.UserRegistrationRequest;
+import com.lavanya.banking_system.entity.User;
+
+public interface UserService {
+	User userRegistration(UserRegistrationRequest userRequest);
+}

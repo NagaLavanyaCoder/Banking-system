@@ -1,0 +1,5 @@
+package com.lavanya.banking_system.interfaces;
+
+public interface UserInterface {
+
+}

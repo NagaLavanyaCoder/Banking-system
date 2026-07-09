@@ -1,0 +1,5 @@
+package com.lavanya.banking_system.service;
+
+public interface UserService {
+
+}
